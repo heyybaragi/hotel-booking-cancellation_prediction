@@ -1,0 +1,7 @@
+# Ignore generated CSV files
+*predictions*.csv
+*.csv
+
+# But keep the main dataset
+!hotel_bookings.csv
+!model_comparison_results.csv
